@@ -1,6 +1,8 @@
-# VibeTrack ⚡️
+# VibeTrack ⚡️ (Open Source Beta)
 
 VibeTrack is a modern, high-performance personal tracker designed specifically for developers. It enables you to seamlessly inventory your technical skills, plot complex roadmap milestones, track portfolio projects, and collect achievements through a visually stunning, gamer-style interface. 
+
+> **Note:** This repository represents the **VibeTrack v1 (Beta)** open-source release.
 
 Built from the ground up to be extremely fast, responsive, and beautiful, VibeTrack bridges the gap between task management and gamified progression.
 
